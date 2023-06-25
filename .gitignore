@@ -1,3 +1,5 @@
 .idea/
 tokens/
 target/
+src/main/resources/
+!src/main/resources/paper-plugin.yml
